@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.text-container {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 0.5%;
+}
+
+.header-menu {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.arrowsandexit {
+  display: flex;
+  gap: 9%;
+  color: white;
+  font-size: 25px;
+  padding-left: 8%;
+}
+
+.webinput {
+  width: 90%;
+}
+
+.sec1 {
+  padding: 4%;
+}
+
+.leaderBoard {
+  font-size: 40px;
+  font-family: 'Inter', sans-serif;
+}
+
+.allscorescontainer {
+  padding: 4%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.addscorecontainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 30%;
+}
+
+.table {
+  border: 2px solid grey;
+  width: 50%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.scores {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.btnn {
+  display: flex;
+  justify-self: right;
+}
