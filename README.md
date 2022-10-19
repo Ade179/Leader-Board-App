@@ -1,40 +1,55 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#Leaderboard App
-
-> This project helps the mastery of objects in Javascript, webpack and Gitflow
-
+# Project Name
+Leaderboard App
+> Description the project.
+This project follows gitflow and displays a mastery of webpack, linters and JavaScript
 
 ## Built With
 
-- HTML and CSS
--JavaScript
-- Linters
--Webpack
+- HTML
+-CSS
+- JavaScript
+
+## Live Demo (if available)
+
+[Live Demo Link](N/A)
 
 
-### Go live 
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+-copy ssh key and clone to your local machine
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
 ## Authors
 
-👤 **Author2**
-
+👤 **Author1**
 - GitHub: [@githubhandle](https://github.com/Ade179)
 - Twitter: [@twitterhandle](https://twitter.com/@juwon_adesanya)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/adejuwon-adesanya-237b54239)
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites: Knowledge of HTMML, CSS, JavaScript
 
-### Setup: Use a code editor of your choice(VS code) recommended
+## 🤝 Contributing
 
-### Install: you can copy the ssh key of the project and clone in your local machine
-
-### Usage
-
-### Run tests: run on local host from your code editor terminal by running the command 'npm start'
-
-### Deployment
+Contributions, issues, and feature requests are welcome!
 
 
 ## Show your support
@@ -49,7 +64,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
