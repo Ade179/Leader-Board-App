@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
+Leaderboard App
 > Description the project.
-
+This project follows gitflow and displays a mastery of webpack, linters and JavaScript
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+-CSS
+- JavaScript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](N/A)
 
 
 ## Getting Started
@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ### Install
-
+-copy ssh key and clone to your local machine
 ### Usage
 
 ### Run tests
@@ -41,22 +41,16 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/Ade179)
+- Twitter: [@twitterhandle](https://twitter.com/@juwon_adesanya)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/adejuwon-adesanya-237b54239)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -70,6 +64,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._

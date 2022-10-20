@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+<script defer src="main.js"></script></head>
+<body>
+    <header class="header">
+        <div class="text-container">
+            <h3 class="webpage">A web Page</h3>
+        </div>
+        <div class="header-menu">
+            <div class="arrowsandexit">
+            <i class="fa fa-arrow-left" aria-hidden="true"></i>
+            <i class="fa-solid fa-arrow-right"></i>
+            <p>X</p>
+            <i class="fa fa-home" aria-hidden="true"></i>
+        </div>
+                <form action="get" class="form">   
+            <input type="text" name="search" placeholder="https://" class="webinput">
+                </form>
+             <div class="btnn"><input type="text"><button type="submit" class="button1"><i class="fa fa-search"></i></button></div> 
+        </div>
+    </header>
+
+    <section class="sec1">
+        <h1 class="leaderBoard">Leaderboard</h1>
+        <div class="allscorescontainer">
+        <div class="scores">
+            <h2>Recent Scores <button class="btn">Refresh</button></h2>
+            <div class="table"></div>
+        </div>
+        <div class="addscore">
+            <h2>Add your Score</h2>
+            <form action="Get" class="addscorecontainer">
+                <input type="text" placeholder="Your name" name="user-name" class="userinputs">
+                <input type="text" placeholder="Your score" name="user-score" class="userinputs">
+                <div class="submit-btn"><button class="submit">Submit</button></div>
+            </form>
+        </div>
+    </div>
+    </section>
+    <footer class="footer">
+    </footer>
+</body>
+</html>
