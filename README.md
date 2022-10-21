@@ -11,7 +11,7 @@ This project follows gitflow and displays a mastery of webpack, linters and Java
 -CSS
 - JavaScript
 
-## Live Demo (if available)
+## Live Demo (https://ade179.github.io/Leader-Board-App/dist/)
 
 [Live Demo Link](N/A)
 
