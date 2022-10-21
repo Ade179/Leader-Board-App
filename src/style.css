@@ -1,41 +1,12 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: linear-gradient(to right, blue, rgb(102, 102, 51));
 }
 
 * {
   padding: 0;
   margin: 0;
-}
-
-.text-container {
-  display: flex;
-  justify-content: center;
-}
-
-.header {
-  background-color: grey;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  padding: 0.5%;
-}
-
-.header-menu {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.arrowsandexit {
-  display: flex;
-  gap: 9%;
-  color: white;
-  font-size: 25px;
-  padding-left: 8%;
-}
-
-.webinput {
-  width: 90%;
 }
 
 .sec1 {
@@ -54,9 +25,23 @@ body {
 }
 
 .addscorecontainer {
+  padding-top: 6%;
   display: flex;
-  flex-wrap: wrap;
-  width: 30%;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.submit-btn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.submit {
+  width: 20%;
+  height: auto;
+  border: none;
+  background-color: orange;
+  padding: 1%;
 }
 
 .table {
@@ -77,4 +62,24 @@ body {
 .btnn {
   display: flex;
   justify-self: right;
+}
+
+.btn {
+  padding: 1%;
+  border: none;
+}
+
+.btn:hover {
+  background-image: linear-gradient(to right, rgb(0, 255, 115), rgb(74, 74, 61));
+  width: 20%;
+  border: none;
+}
+
+.btn:active {
+  background-color: #ff6b00;
+  border: none;
+}
+
+.recents {
+  gap: 10px;
 }
